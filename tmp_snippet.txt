@@ -1,0 +1,10 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "id": "eda-title",
+      "metadata": {},
+      "source": [
+        "# Loan Approval EDA — Built on Cleaned Data\n",
+        "\n",
+        "This notebook performs a focused exploratory data analysis (EDA) using the cleaned dataset produced i
